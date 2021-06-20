@@ -1,4 +1,4 @@
-# Tower Seigie 2
+# Tower Siege 2
 Break All The Towers
 
-# Created By Dibyayan Kar
+# Created By Kabir Dhupar
